@@ -10,7 +10,7 @@
   - Docker
   - Podman
   - Kubernetes
-  - Openshift)
+  - Openshift
 - Programação 
   - Python
   - ShellScript
