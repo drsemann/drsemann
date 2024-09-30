@@ -15,7 +15,13 @@
   - Python
   - ShellScript
   - Powershell
-  - Go         
+  - Go
+- Redes e Segurança
+  - Cisco
+  - Mikrotik
+  - Fortinet
+  - Sophos
+  - Unifi         
 
 ## :bar_chart: Stats
 <div>
