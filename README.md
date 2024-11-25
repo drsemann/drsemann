@@ -21,7 +21,12 @@
   - Mikrotik
   - Fortinet
   - Sophos
-  - Unifi         
+  - Unifi
+- Monitoramento
+  - Zabbix
+  - Grafana
+  - Prometheus
+  - Datadog       
 
 ## :bar_chart: Stats
 <div>
