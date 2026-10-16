@@ -4,8 +4,6 @@ Tenho interesse em infraestrutura Linux, automação, redes e segurança.
 Uso este espaço para compartilhar configurações, scripts e estudos
 sobre administração de sistemas e infraestrutura como código.
 
-📍 Santa Catarina, Brasil
-
 ## Áreas de interesse
 
 - **Linux e automação:** Ansible, Terraform e Shell Script.
